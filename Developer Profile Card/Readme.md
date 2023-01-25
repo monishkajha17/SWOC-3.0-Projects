@@ -1,3 +1,3 @@
 <h1>Developer Profile Card</h1>
 <p>In this we, project I made a developer profile card which can be considered as the responsive visiting card for the developers.Here they can add thier current role , designation and their social media handles to reach them. </p>
-![Screenshot (273)](https://user-images.githubusercontent.com/109274817/214568754-9fbd1d0b-3207-460c-9aaa-2065f08fd998.png)
+<img src="https://user-images.githubusercontent.com/109274817/214568754-9fbd1d0b-3207-460c-9aaa-2065f08fd998.png" alt="Developer Profile Card">
